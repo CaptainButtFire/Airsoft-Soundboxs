@@ -1,7 +1,7 @@
 /*
 
  PublicInfo:
- Airsoft_Soundbox by CaptainButtFire, Jan
+ Airsoft_Soundbox by Rainer, Jan
  Project started: 05.10.2016
  Public: yes
  GitHub: https://github.com/CaptainButtFire/Airsoft-Soundboxs
